@@ -1,0 +1,2 @@
+date,time,symbol,direction,setup,entry,stop,target,exit,fees,risk_pct,realized_R,regime_1h,atr_percentile,session,setup_valid,rule_violation,notes
+2026-09-26,20:00,BTCUSDT,long,HTF_pullback,60000,59400,60900,60900,0.50,0.5,1.5,bull,55,Asia,1,0,example_only
